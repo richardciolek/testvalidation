@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Salve Munde</title>
+        <author>Vitellius</author>
+      </titleStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <elementSpec ident="myelement"> Salve mundi
+        </elementSpec>
+      </p>
+    </body>
+  </text>
+</TEI>
