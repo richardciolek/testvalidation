@@ -11,7 +11,7 @@
   <text>
     <body>
       <p>
-        <elementSpec ident="myelement"> Salve mundi
+        <elementSpec ident="myelement"> Salve mundi. This is a change
         </elementSpec>
       </p>
     </body>
